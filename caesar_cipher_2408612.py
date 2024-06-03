@@ -1,6 +1,3 @@
-#Name: Pujan Upadhyay
-#University Student Number: 2408612
-
 #program to encrypt and decrypt text using caesar method.
 
 import os.path#importing os.path to use in is_file() function
